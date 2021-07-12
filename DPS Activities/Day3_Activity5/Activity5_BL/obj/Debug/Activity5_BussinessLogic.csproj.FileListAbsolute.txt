@@ -1,0 +1,6 @@
+G:\Genesis_Internship\Activity_Day3\Activity5_BussinessLogic\bin\Debug\Activity5_BussinessLogic.dll
+G:\Genesis_Internship\Activity_Day3\Activity5_BussinessLogic\bin\Debug\Activity5_BussinessLogic.pdb
+G:\Genesis_Internship\Activity_Day3\Activity5_BussinessLogic\obj\Debug\Activity5_BussinessLogic.csproj.AssemblyReference.cache
+G:\Genesis_Internship\Activity_Day3\Activity5_BussinessLogic\obj\Debug\Activity5_BussinessLogic.csproj.CoreCompileInputs.cache
+G:\Genesis_Internship\Activity_Day3\Activity5_BussinessLogic\obj\Debug\Activity5_BussinessLogic.dll
+G:\Genesis_Internship\Activity_Day3\Activity5_BussinessLogic\obj\Debug\Activity5_BussinessLogic.pdb
